@@ -1,0 +1,48 @@
+{
+  "personal": {
+    "name": "Marcus Vinícius",
+    "email": "Marcus@teste.com",
+    "phone": "81999191570",
+    "consultacyType": "Individual",
+    "personType": "CPF",
+    "document": "63168092045",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "cypress/fixtures/document.pdf",
+    "description": "vamos colocar o que quiser aqui",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "Playwright"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Marcus Vinícius",
+    "email": "Marcus@teste.com",
+    "phone": "81999191570",
+    "consultacyType": "In Company",
+    "personType": "CNPJ",
+    "document": "78780710000179",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "cypress/fixtures/document.pdf",
+    "description": "vamos colocar o que quiser aqui",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "Playwright"
+    ],
+    "terms": true
+  }
+}
